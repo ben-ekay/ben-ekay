@@ -26,6 +26,23 @@ Features:
 - Ticket booking functionality
 - Web development principles
 
+  ## 📸 Screenshots
+
+
+### Homepage
+
+![Homepage](screenshots/homepage.png)
+
+
+### Fixtures
+
+![Fixtures](screenshots/fixtures.png)
+
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
 🔗 Repository: https://github.com/ben-ekay/football-ticketing-system
 
 
