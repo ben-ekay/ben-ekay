@@ -13,18 +13,62 @@ Currently learning:
 🌐 Web Development  
 
 
-## 🚀 My Projects
-
-### 🍰 Sweets Treats Bakery
-PHP | MySQL | HTML | CSS
-
-Dynamic website developed using PHP and MySQL, including database integration, admin management and user feedback features.
+## 🚀 Featured Projects
 
 
 ### 🎟 Football Ticketing System
-Web Development Project
+**HTML | Web Development**
 
-A web application focused on managing football ticket bookings and user interactions.
+A web-based football ticketing system developed as part of my university Work-Based Learning module.
+
+Features:
+- User interface design
+- Ticket booking functionality
+- Web development principles
+
+🔗 Repository: https://github.com/ben-ekay/football-ticketing-system
+
+
+### 🍰 Sweets Treats Bakery
+**PHP | MySQL | HTML | CSS**
+
+Dynamic bakery website developed for university coursework.
+
+Features:
+- Database integration
+- Admin management system
+- User feedback functionality
+- Dynamic content using PHP
+
+🔗 Repository: https://github.com/ben-ekay/sweets-treats-bakery
+
+
+### 🐍 Python Learning Journey
+**Python | Programming Fundamentals**
+
+My ongoing Python learning journey as part of my transition into software development.
+
+Topics covered:
+- Variables and data types
+- Control flow
+- Functions
+- Data structures
+- Object-oriented programming
+
+🔗 Repository: https://github.com/ben-ekay/python-learning-journey
+
+
+### ☕ Stamp Collection App
+**Java | Object-Oriented Programming**
+
+Desktop application developed during my university software development studies.
+
+Topics:
+- Java programming
+- Object-Oriented Programming concepts
+- Application design
+
+🔗 Repository: https://github.com/ben-ekay/stamp-collection-app
 
 
 ### 🏨 Vacation Stay Database
@@ -41,24 +85,28 @@ Research project exploring Artificial Intelligence applications and computer vis
 
 ## 🛠 Tech Stack
 
-💻 Programming Languages:
-- Python
-- Java
-- PHP
-- JavaScript
 
-🌐 Web:
-- HTML
-- CSS
+### Languages
+🐍 Python  
+☕ Java  
+🐘 PHP  
+🟨 JavaScript  
 
-🗄 Database:
-- SQL
-- MySQL
 
-🔧 Tools:
-- Git
-- GitHub
-- VS Code
+### Web Development
+🌐 HTML  
+🎨 CSS  
+
+
+### Databases
+🗄 MySQL  
+🗃 SQL  
+
+
+### Tools
+🔧 Git & GitHub  
+💻 Visual Studio Code  
+🖥 NetBeans  
 
 
 ## 📚 Current Learning Journey
@@ -71,6 +119,5 @@ Research project exploring Artificial Intelligence applications and computer vis
 
 ## 🔗 Connect with me
 
-💼 LinkedIn: Add your LinkedIn link here
-
-🐙 GitHub: Add your GitHub link here
+💼 LinkedIn: www.linkedin.com/in/benjamin-ekay
+🐙 GitHub: www.github.com/ben-ekay
