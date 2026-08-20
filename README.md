@@ -1,123 +1,185 @@
 # Hi 👋 I'm Benjamin Ekay
 
-🎓 Computing Student  
+🎓 Computing Student in London  
 💻 Aspiring Software Engineer  
-🇬🇧 Based in London  
+🚀 Building practical projects across web development, Python, Java, databases and emerging technologies.
 
-Currently learning:
+I am currently developing my software engineering skills through university projects and independent learning, with a growing focus on:
 
-🐍 Python  
-☁️ Cloud Computing  
-🤖 Artificial Intelligence  
-🔐 Cybersecurity  
-🌐 Web Development  
+- 🐍 Python
+- 🤖 Artificial Intelligence & Machine Learning
+- ☁️ Cloud Computing
+- 🔐 Cybersecurity
+- 🌐 Full-Stack Web Development
 
+---
 
 ## 🚀 Featured Projects
 
+### 🎟 GoalTicket — Football Ticketing System
 
-### 🎟 Football Ticketing System
-**HTML | Web Development**
+**PHP | MySQL | JavaScript | HTML | CSS**
 
-A web-based football ticketing system developed as part of my university Work-Based Learning module.
+Full-stack football ticketing system developed as part of my university Work-Based Learning project.
 
-Features:
-- User interface design
-- Ticket booking functionality
-- Web development principles
+Key features:
 
-🔗 Repository: https://github.com/ben-ekay/football-ticketing-system
+- User registration and secure login
+- Football fixture browsing
+- Ticket booking
+- QR-based digital tickets
+- QR ticket validation
+- Admin dashboard
+- Fixture management
+- Progressive Web App support
 
+🔗 [View Repository](https://github.com/ben-ekay/football-ticketing-system)
 
-### 🍰 Sweets Treats Bakery
-**PHP | MySQL | HTML | CSS**
+---
 
-Dynamic bakery website developed for university coursework.
+### 🍰 Sweet Treats Bakery
 
-Features:
-- Database integration
-- Admin management system
-- User feedback functionality
-- Dynamic content using PHP
+**PHP | MySQL | HTML | CSS | JavaScript**
 
-🔗 Repository: https://github.com/ben-ekay/sweets-treats-bakery
+Dynamic bakery website developed as part of university coursework.
 
+Key features:
 
-### 🐍 Python Learning Journey
-**Python | Programming Fundamentals**
+- Dynamic daily menu
+- Customer feedback system
+- Star ratings
+- Admin dashboard
+- Menu management
+- MySQL database integration
+- Secure form handling
 
-My ongoing Python learning journey as part of my transition into software development.
+🔗 [View Repository](https://github.com/ben-ekay/sweets-treats-bakery)
 
-Topics covered:
-- Variables and data types
-- Control flow
-- Functions
-- Data structures
-- Object-oriented programming
-
-🔗 Repository: https://github.com/ben-ekay/python-learning-journey
-
+---
 
 ### ☕ Stamp Collection App
-**Java | Object-Oriented Programming**
 
-Desktop application developed during my university software development studies.
+**Java | Object-Oriented Programming | Swing**
 
-Topics:
-- Java programming
-- Object-Oriented Programming concepts
-- Application design
+Desktop application developed during my university Object-Oriented Programming studies.
 
-🔗 Repository: https://github.com/ben-ekay/stamp-collection-app
+Key areas:
 
+- Object-oriented design
+- Classes and objects
+- Encapsulation
+- GUI development
+- Member management
+- Session booking functionality
+
+🔗 [View Repository](https://github.com/ben-ekay/stamp-collection-app)
+
+---
+
+### 🐍 Python Learning Journey
+
+**Python | Programming Fundamentals**
+
+My ongoing Python learning repository documenting exercises, mini-projects and programming progress.
+
+Topics include:
+
+- Variables and data types
+- Conditional logic
+- Loops
+- Functions
+- Lists and dictionaries
+- Problem solving
+- Object-Oriented Programming
+
+🔗 [View Repository](https://github.com/ben-ekay/python-learning-journey)
+
+---
+
+## 🧠 Other Academic Work
 
 ### 🏨 Vacation Stay Database
-SQL | ERD | Database Design
 
-Database project focused on entity relationships, normalisation up to 3NF and SQL implementation.
+**SQL | MySQL | ERD | Database Design**
 
+Relational database project covering:
+
+- Entity Relationship Diagrams
+- Database normalisation up to 3NF
+- SQL queries
+- Relational database design
 
 ### 🤖 Intelligent Systems Research
-AI | Computer Vision | YOLO
 
-Research project exploring Artificial Intelligence applications and computer vision technologies.
+**Artificial Intelligence | Computer Vision | YOLO**
 
+Research work exploring AI-based systems, computer vision technologies and real-world applications of intelligent systems.
+
+---
 
 ## 🛠 Tech Stack
 
-
 ### Languages
-🐍 Python  
-☕ Java  
-🐘 PHP  
-🟨 JavaScript  
 
+- 🐍 Python
+- ☕ Java
+- 🐘 PHP
+- 🟨 JavaScript
+- 🗄 SQL
 
 ### Web Development
-🌐 HTML  
-🎨 CSS  
 
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚙️ PHP
+- 🟨 JavaScript
 
 ### Databases
-🗄 MySQL  
-🗃 SQL  
 
+- 🗄 MySQL
+- 🧩 Relational Database Design
+- 📐 ERD & Normalisation
 
 ### Tools
-🔧 Git & GitHub  
-💻 Visual Studio Code  
-🖥 NetBeans  
 
+- 🔧 Git
+- 🐙 GitHub
+- 💻 Visual Studio Code
+- 🖥 NetBeans
+- 🗃 phpMyAdmin
+- 🌐 MAMP / XAMPP
+
+---
 
 ## 📚 Current Learning Journey
 
-🐍 Python Learning Journey  
-🔐 Cybersecurity Roadmap  
-🤖 Artificial Intelligence & Machine Learning  
-☁️ Cloud Computing
+I am currently building my skills in:
 
+- 🐍 Python
+- 🔐 Cybersecurity
+- 🤖 Artificial Intelligence & Machine Learning
+- ☁️ Cloud Computing
+- 🧪 Software Engineering practices
+- 🌐 Full-Stack Development
+
+---
+
+## 🎯 Career Focus
+
+My goal is to continue developing into a Software Engineer with strong foundations in:
+
+- Software development
+- Python
+- Artificial Intelligence
+- Cloud technologies
+- Cybersecurity
+- Full-stack web development
+
+I am particularly interested in building practical software systems and continuing to develop projects that demonstrate real-world engineering skills.
+
+---
 
 ## 🔗 Connect with me
 
-💼 LinkedIn: www.linkedin.com/in/benjamin-ekay
-🐙 GitHub: www.github.com/ben-ekay
+💼 [LinkedIn](https://www.linkedin.com/in/benjamin-ekay)  
+🐙 [GitHub](https://github.com/ben-ekay)
