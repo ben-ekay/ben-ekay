@@ -1,185 +1,234 @@
-# Hi 👋 I'm Benjamin Ekay
+Hi 👋 I’m Benjamin Ekay
 
-🎓 Computing Student in London  
-💻 Aspiring Software Engineer  
-🚀 Building practical projects across web development, Python, Java, databases and emerging technologies.
+🎓 FdSc Computing Student in London
+💻 Aspiring Software Engineer
+🚀 Building practical full-stack projects with PHP, MySQL and Python
+🤖 Developing skills in AI, cloud computing, cybersecurity and modern software development
 
-I am currently developing my software engineering skills through university projects and independent learning, with a growing focus on:
+I am currently strengthening my software engineering skills through university projects, independent learning and portfolio development.
 
-- 🐍 Python
-- 🤖 Artificial Intelligence & Machine Learning
-- ☁️ Cloud Computing
-- 🔐 Cybersecurity
-- 🌐 Full-Stack Web Development
+My main areas of focus are:
 
----
+* 🐍 Python
+* 🌐 Full-Stack Web Development
+* 🗄 Databases
+* 🤖 Artificial Intelligence & Machine Learning
+* ☁️ Cloud Computing
+* 🔐 Cybersecurity
 
-## 🚀 Featured Projects
+⸻
 
-### 🎟 GoalTicket — Football Ticketing System
+🚀 Featured Projects
 
-**PHP | MySQL | JavaScript | HTML | CSS**
+🛍️ NovaStore — E-commerce Web Application
+
+PHP | MySQL | PDO | JavaScript | HTML | CSS
+
+Full-stack e-commerce style application currently being developed as a portfolio project.
+
+Current features:
+
+* Public product catalogue
+* Product detail pages
+* Search functionality
+* Category filtering
+* Product sorting
+* Featured product management
+* Stock management
+* Admin authentication
+* Admin dashboard
+* Product CRUD operations
+* Category management
+* Product image uploads
+* CSRF protection
+* PDO prepared statements
+* Responsive interface
+
+Currently developing:
+
+* Improved product imagery
+* Shopping cart
+* Quantity management
+* Checkout flow
+* Order management
+* Final testing and portfolio screenshots
+
+🔗 View Repository
+
+⸻
+
+🎟 GoalTicket — Football Ticketing System
+
+PHP | MySQL | JavaScript | HTML | CSS
 
 Full-stack football ticketing system developed as part of my university Work-Based Learning project.
 
 Key features:
 
-- User registration and secure login
-- Football fixture browsing
-- Ticket booking
-- QR-based digital tickets
-- QR ticket validation
-- Admin dashboard
-- Fixture management
-- Progressive Web App support
+* User registration and secure login
+* Football fixture browsing
+* Ticket booking
+* QR-based digital tickets
+* QR ticket validation
+* Admin dashboard
+* Fixture management
+* Progressive Web App support
 
-🔗 [View Repository](https://github.com/ben-ekay/football-ticketing-system)
+🔗 View Repository
 
----
+⸻
 
-### 🍰 Sweet Treats Bakery
+🍰 Sweet Treats Bakery
 
-**PHP | MySQL | HTML | CSS | JavaScript**
+PHP | MySQL | HTML | CSS | JavaScript
 
 Dynamic bakery website developed as part of university coursework.
 
 Key features:
 
-- Dynamic daily menu
-- Customer feedback system
-- Star ratings
-- Admin dashboard
-- Menu management
-- MySQL database integration
-- Secure form handling
+* Dynamic daily menu
+* Customer feedback system
+* Star ratings
+* Admin dashboard
+* Menu management
+* MySQL database integration
+* Secure form handling
 
-🔗 [View Repository](https://github.com/ben-ekay/sweets-treats-bakery)
+🔗 View Repository
 
----
+⸻
 
-### ☕ Stamp Collection App
+☕ Stamp Collection App
 
-**Java | Object-Oriented Programming | Swing**
+Java | Object-Oriented Programming | Swing
 
 Desktop application developed during my university Object-Oriented Programming studies.
 
 Key areas:
 
-- Object-oriented design
-- Classes and objects
-- Encapsulation
-- GUI development
-- Member management
-- Session booking functionality
+* Object-oriented design
+* Classes and objects
+* Encapsulation
+* GUI development
+* Member management
+* Session booking functionality
 
-🔗 [View Repository](https://github.com/ben-ekay/stamp-collection-app)
+🔗 View Repository
 
----
+⸻
 
-### 🐍 Python Learning Journey
+🐍 Python Learning Journey
 
-**Python | Programming Fundamentals**
+Python | Programming Fundamentals
 
 My ongoing Python learning repository documenting exercises, mini-projects and programming progress.
 
 Topics include:
 
-- Variables and data types
-- Conditional logic
-- Loops
-- Functions
-- Lists and dictionaries
-- Problem solving
-- Object-Oriented Programming
+* Variables and data types
+* Conditional logic
+* Loops
+* Functions
+* Lists and dictionaries
+* File handling
+* Problem solving
 
-🔗 [View Repository](https://github.com/ben-ekay/python-learning-journey)
+🔗 View Repository
 
----
+⸻
 
-## 🧠 Other Academic Work
+🧠 Other Academic Work
 
-### 🏨 Vacation Stay Database
+🏨 Vacation Stay Database
 
-**SQL | MySQL | ERD | Database Design**
+SQL | MySQL | ERD | Database Design
 
 Relational database project covering:
 
-- Entity Relationship Diagrams
-- Database normalisation up to 3NF
-- SQL queries
-- Relational database design
+* Entity Relationship Diagrams
+* Database normalisation up to 3NF
+* SQL queries
+* Stored procedures
+* Relational database design
+* Data dictionaries
 
-### 🤖 Intelligent Systems Research
+⸻
 
-**Artificial Intelligence | Computer Vision | YOLO**
+🤖 Intelligent Systems Research
 
-Research work exploring AI-based systems, computer vision technologies and real-world applications of intelligent systems.
+Artificial Intelligence | Computer Vision | YOLO
 
----
+Research exploring AI-based systems and computer vision for real-world applications, including intelligent surveillance and object detection technologies.
 
-## 🛠 Tech Stack
+⸻
 
-### Languages
+🛠 Tech Stack
 
-- 🐍 Python
-- ☕ Java
-- 🐘 PHP
-- 🟨 JavaScript
-- 🗄 SQL
+Languages
 
-### Web Development
+* 🐍 Python
+* ☕ Java
+* 🐘 PHP
+* 🟨 JavaScript
+* 🗄 SQL
 
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚙️ PHP
-- 🟨 JavaScript
+Web Development
 
-### Databases
+* 🌐 HTML5
+* 🎨 CSS3
+* ⚙️ PHP
+* 🟨 JavaScript
+* 🔗 PDO
 
-- 🗄 MySQL
-- 🧩 Relational Database Design
-- 📐 ERD & Normalisation
+Databases
 
-### Tools
+* 🗄 MySQL
+* 🧩 Relational Database Design
+* 📐 ERD & Normalisation
+* ⚙️ Stored Procedures
 
-- 🔧 Git
-- 🐙 GitHub
-- 💻 Visual Studio Code
-- 🖥 NetBeans
-- 🗃 phpMyAdmin
-- 🌐 MAMP / XAMPP
+Tools
 
----
+* 🔧 Git
+* 🐙 GitHub
+* 💻 Visual Studio Code
+* 🖥 NetBeans
+* 🗃 phpMyAdmin
+* 🌐 MAMP / XAMPP
 
-## 📚 Current Learning Journey
+⸻
 
-I am currently building my skills in:
+📚 Current Learning Journey
 
-- 🐍 Python
-- 🔐 Cybersecurity
-- 🤖 Artificial Intelligence & Machine Learning
-- ☁️ Cloud Computing
-- 🧪 Software Engineering practices
-- 🌐 Full-Stack Development
+I am currently developing my skills in:
 
----
+* 🐍 Python
+* 🧪 Software Engineering practices
+* 🌐 Full-Stack Development
+* 🔐 Cybersecurity
+* 🤖 Artificial Intelligence & Machine Learning
+* ☁️ Cloud Computing
+* 🔧 Git and GitHub workflows
 
-## 🎯 Career Focus
+⸻
 
-My goal is to continue developing into a Software Engineer with strong foundations in:
+🎯 Career Focus
 
-- Software development
-- Python
-- Artificial Intelligence
-- Cloud technologies
-- Cybersecurity
-- Full-stack web development
+My goal is to progress into a Software Engineering role with strong foundations in:
 
-I am particularly interested in building practical software systems and continuing to develop projects that demonstrate real-world engineering skills.
+* Software development
+* Python
+* Full-stack web development
+* Databases
+* Artificial Intelligence
+* Cloud technologies
+* Cybersecurity
 
----
+I am particularly interested in building practical software systems, improving my engineering skills and developing portfolio projects that demonstrate real-world problem solving.
 
-## 🔗 Connect with me
+⸻
 
-💼 [LinkedIn](https://www.linkedin.com/in/benjamin-ekay)  
-🐙 [GitHub](https://github.com/ben-ekay)
+🔗 Connect with me
+
+💼 LinkedIn
+🐙 GitHub
