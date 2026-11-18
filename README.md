@@ -27,6 +27,25 @@ A product catalogue web application featuring:
 - CSRF protection and input validation
 - Responsive user interface
 
+
+### 🔧 [FixerUpper — Secure E-Commerce Store](https://github.com/ben-ekay/fixerupper-secure-store)
+**PHP | MySQL | JavaScript | HTML | CSS**
+
+A secure e-commerce demonstration application developed as part of my CMP214 Secure Website Development module.
+
+Key features:
+
+- Product catalogue with search, filtering and sorting
+- Customer registration and authentication
+- Shopping cart and checkout
+- Order confirmation and customer order history
+- Administrator dashboard and product CRUD operations
+- CSRF protection, PDO prepared statements and role-based access control
+- Responsive interface and inventory management
+
+📸 [View Project Screenshots](https://github.com/ben-ekay/fixerupper-secure-store#-project-screenshots)
+
+
 ### 🎟️ [GoalTicket — Football Ticketing System](https://github.com/ben-ekay/football-ticketing-system)
 **PHP | MySQL | JavaScript | HTML | CSS**
 
